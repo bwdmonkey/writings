@@ -1,2 +1,2 @@
 # writings
-unfiltered thoughts about everything
+unfiltered thoughts about anything
