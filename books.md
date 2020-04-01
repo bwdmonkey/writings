@@ -12,13 +12,13 @@
 - [x] I Can't Make This Up (Hart, Kevin & Strauss, Neil)
 - [x] The Subtle Art of Not Giving a F*ck (Manson, Mark)
 - [x] Rich Dad, Poor Dad (Kiyosaki, Robert)
+- [x] Think and Grow Rich (Hill, Napoleon)
 
 ### A list of books or audiobooks that I am planning on one day.
 
 - [ ] The 48 Laws of Power (Greene, Robert)
 - [ ] The 7 Habits of Highly Effective People (Covey, Stephen)
 - [ ] The 10X Rule (Cardone, Grant)
-- [ ] Think and Grow Rich (Hill, Napoleon)
 - [ ] The Productivity Project (Bailey, Chris)
 - [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
 - [ ] Zero to One: Notes on Startups, or How to Build the Future (Thiel, Peter & Masters, Blake)
