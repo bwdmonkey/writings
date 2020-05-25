@@ -13,6 +13,8 @@
 - [x] The Subtle Art of Not Giving a F*ck (Manson, Mark)
 - [x] Rich Dad, Poor Dad (Kiyosaki, Robert)
 - [x] Think and Grow Rich (Hill, Napoleon)
+- [x] Dare To Lead (Brown, Brené)
+- [x] The Laws of Human Nature (Greene, Robert)
 
 ### A list of books or audiobooks that I am planning on one day.
 
