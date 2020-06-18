@@ -15,6 +15,12 @@
 - [x] Think and Grow Rich (Hill, Napoleon)
 - [x] Dare To Lead (Brown, Brené)
 - [x] The Laws of Human Nature (Greene, Robert)
+- [x] Never Split the Difference (Voss, Chris)
+
+### A list of off-topic books or audiobooks that I have finished.
+
+- [x] The Way You Make Me Feel (Goo, Maurene)
+- [x] Emergency Contacts (Choi, Mary H.K)
 
 ### A list of books or audiobooks that I am planning on one day.
 
@@ -30,3 +36,4 @@
 
 - [ ] The Millionaire Next Door (Stanley, Thomas & Danko, William)
 - [ ] The 10 Pillars of Wealth (Becker, Alex)
+- [ ] Affluenza (de Graaf, John)
