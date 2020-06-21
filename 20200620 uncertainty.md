@@ -2,7 +2,7 @@
 
 ### June 20th, 2020
 
-We wake up in the morning, getting ready to go out, and open up our phones to check the weather before going out. What will be the weather be like? Will it be warm and sunny, or cold and rainy? We look up weather forecasts in hopes to avoid the unexpected and to be prepared.
+We wake up in the morning, get ready to go out, and open up our phones to check the weather before going out. What will be the weather be like? Will it be warm and sunny, or cold and rainy? We look up weather forecasts in hopes to avoid the unexpected and to be prepared.
 
 Humans are addicted to certainty. Humans are wired for certainty due to evolution where if we were to risk death if not for certainty.
 
