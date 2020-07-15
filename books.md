@@ -16,6 +16,14 @@
 - [x] Dare To Lead (Brown, Brené)
 - [x] The Laws of Human Nature (Greene, Robert)
 - [x] Never Split the Difference (Voss, Chris)
+- [x] Blue Ocean Strategy (Kim, W. Chan)
+- [x] 12 Rules for Life (Peterson, Jordan B.)
+- [x] The 4-Hour Workweek (Feriss, Thomas)
+- [x] The Magic of Thinking Big (Schwartz, David)
+- [x] Shoe Dog (Knight, Phil)
+- [x] Atomic Habits (Clear, James)
+- [x] The Millionaire Next Door (Stanley, Thomas & Danko, William)
+- [x] The Ride of a Lifetime (Iger, Robert)
 
 ### A list of off-topic books or audiobooks that I have finished.
 
@@ -34,6 +42,6 @@
 
 ### A list of books or audiobooks that I dropped off in the middle.
 
-- [ ] The Millionaire Next Door (Stanley, Thomas & Danko, William)
 - [ ] The 10 Pillars of Wealth (Becker, Alex)
 - [ ] Affluenza (de Graaf, John)
+- [ ] The Intelligent Investor (Graham, Benjamin)
