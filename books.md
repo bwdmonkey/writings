@@ -1,17 +1,19 @@
 # books
 
+Note: Bolded titles are my highly recommended
+
 ### A list of books or audiobooks that I have finished.
 
 - [x] Thinking, Fast and Slow (Kahneman, Daniel)
 - [x] How to Win Friends and Influence People (Carnegie, Dale)
 - [x] Snakes in Suits: When Psychopaths Go to Work (Babiek, Paul & Hare, Robert)
 - [x] The Power of Habit: Why We Do What We do in Life and Business (Duhigg, Charles)
-- [x] Talking to Strangers (Gladwell, Malcolm)
+- [x] **Talking to Strangers** (Gladwell, Malcolm)
 - [x] Lying (Harris, Sam)
 - [x] The Great Mental Models (Parrish, Shane)
 - [x] I Can't Make This Up (Hart, Kevin & Strauss, Neil)
 - [x] The Subtle Art of Not Giving a F*ck (Manson, Mark)
-- [x] Rich Dad, Poor Dad (Kiyosaki, Robert)
+- [x] **Rich Dad, Poor Dad** (Kiyosaki, Robert)
 - [x] Think and Grow Rich (Hill, Napoleon)
 - [x] Dare To Lead (Brown, Brené)
 - [x] The Laws of Human Nature (Greene, Robert)
@@ -19,8 +21,8 @@
 - [x] Blue Ocean Strategy (Kim, W. Chan)
 - [x] 12 Rules for Life (Peterson, Jordan B.)
 - [x] The 4-Hour Workweek (Feriss, Thomas)
-- [x] The Magic of Thinking Big (Schwartz, David)
-- [x] Shoe Dog (Knight, Phil)
+- [x] **The Magic of Thinking Big** (Schwartz, David)
+- [x] **Shoe Dog** (Knight, Phil)
 - [x] Atomic Habits (Clear, James)
 - [x] The Millionaire Next Door (Stanley, Thomas & Danko, William)
 - [x] The Ride of a Lifetime (Iger, Robert)
