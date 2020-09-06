@@ -30,6 +30,8 @@ Note: Bolded titles are my highly recommended
 - [x] **The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It** (Gerber, Michael E.)
 - [x] **The Secret of Harvard's Top 1%** (Jung, Juyoung)
 - [x] UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship (DeMarco, MJ)
+- [x] The 10X Rule (Cardone, Grant)
+- [x] Too Much and Never Enough: How My Family Created the World's Most Dangerous Man (Trump, Mary L.)
 
 ### A list of off-topic books or audiobooks that I have finished.
 
@@ -40,13 +42,11 @@ Note: Bolded titles are my highly recommended
 
 - [ ] The 48 Laws of Power (Greene, Robert)
 - [ ] The 7 Habits of Highly Effective People (Covey, Stephen)
-- [ ] The 10X Rule (Cardone, Grant)
 - [ ] The Productivity Project (Bailey, Chris)
 - [ ] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
 - [ ] Zero to One: Notes on Startups, or How to Build the Future (Thiel, Peter & Masters, Blake)
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (Martin, Robert)
 - [ ] Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (Vance, Ashlee)
-- [ ] Too Much and Never Enough: How My Family Created the World's Most Dangerous Man (Trump, Mary L.)
 
 ### A list of books or audiobooks that I dropped off in the middle.
 
