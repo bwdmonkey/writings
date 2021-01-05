@@ -1,5 +1,8 @@
-include:
-  - README.md
-  - "**/*.md"
-
 theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-relative-links
+  
+relative_links:	relative_links:
+  enabled: true	  enabled: true
+  collections: true	  collections: true
