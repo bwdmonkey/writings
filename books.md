@@ -4,6 +4,8 @@ Note: Bolded titles are my highly recommended
 
 ### A list of books or audiobooks that I have finished.
 
+#### 2020
+
 - [x] Thinking, Fast and Slow (Kahneman, Daniel)
 - [x] How to Win Friends and Influence People (Carnegie, Dale)
 - [x] Snakes in Suits: When Psychopaths Go to Work (Babiek, Paul & Hare, Robert)
@@ -36,6 +38,10 @@ Note: Bolded titles are my highly recommended
 - [x] Mindset (Dweck, Carol S.)
 - [x] The 7 Habits of Highly Effective People (Covey, Stephen)
 
+#### 2021
+
+- [x] The Hard Thing About Hard Things (Horowitz, Ben)
+
 ### A list of off-topic books or audiobooks that I have finished.
 
 - [x] The Way You Make Me Feel (Goo, Maurene)
@@ -56,3 +62,4 @@ Note: Bolded titles are my highly recommended
 - [ ] The Intelligent Investor (Graham, Benjamin)
 - [ ] Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (Vance, Ashlee)
 - [ ] Sapiens (Harari, Yuval)
+- [ ] Tools of Titans (Ferriss, Tim)
