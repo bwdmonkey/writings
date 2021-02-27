@@ -41,6 +41,8 @@ Note: Bolded titles are my highly recommended
 #### 2021
 
 - [x] The Hard Thing About Hard Things (Horowitz, Ben)
+- [x] How to Win Friends and Influence People (Carnegie, Dale)
+- [ ] How to Stop Worrying and Start Living (Carnegie, Dale)
 
 ### A list of off-topic books or audiobooks that I have finished.
 
@@ -63,3 +65,4 @@ Note: Bolded titles are my highly recommended
 - [ ] Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (Vance, Ashlee)
 - [ ] Sapiens (Harari, Yuval)
 - [ ] Tools of Titans (Ferriss, Tim)
+- [ ] Building a StoryBrand (Miller, Donald)

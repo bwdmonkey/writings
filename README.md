@@ -1,6 +1,6 @@
 # writings
 
-> "How can I know what I think until I read what I write?" – Henry James 
+> "How can I know what I think until I read what I write?" – Henry James
 
 unfiltered thoughts about anything
 
@@ -15,4 +15,4 @@ unfiltered thoughts about anything
 - December 13, 2020: [What's Next?](20201213 what's next.md)
 - January 4, 2021: [The System of Capitalism](20210104 the system of capitalism.md)
 - January 21, 2021: [A week in](20210121 a week in.md)
-
+- Febuary 27, 2021: [one at at time](20210227 one at a time.md)
