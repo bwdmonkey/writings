@@ -1,8 +1,8 @@
 # books
 
-Note: Bolded titles are my highly recommended
+Note: Bolded titles are my recommendations
 
-### A list of books or audiobooks that I have finished.
+### A list of books or audiobooks that I have finished
 
 #### 2020
 
@@ -37,6 +37,10 @@ Note: Bolded titles are my highly recommended
 - [x] **The Psychology of Money** (Housel, Morgan)
 - [x] Mindset (Dweck, Carol S.)
 - [x] The 7 Habits of Highly Effective People (Covey, Stephen)
+- [ ] Think Again: The Power of Knowing What You Don't Know (Grant, Adam)
+- [x] **How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry (Carnegie, Dale)**
+- [x] Contagious: Why Things Catch On (Berger, Jonah)
+- [x] **How I Built This (Raz, Guy)**
 
 #### 2021
 
@@ -44,12 +48,13 @@ Note: Bolded titles are my highly recommended
 - [x] How to Win Friends and Influence People (Carnegie, Dale)
 - [ ] How to Stop Worrying and Start Living (Carnegie, Dale)
 
-### A list of off-topic books or audiobooks that I have finished.
+### A list of off-topic books or audiobooks that I have finished
 
 - [x] The Way You Make Me Feel (Goo, Maurene)
 - [x] Emergency Contacts (Choi, Mary H.K)
+- [x] The Knife of Never Letting Go: Chaos Walking (Ness, Patrick)
 
-### A list of books or audiobooks that I am planning on one day.
+### A list of books or audiobooks that I am planning on one day
 
 - [ ] The 48 Laws of Power (Greene, Robert)
 - [ ] The Productivity Project (Bailey, Chris)
@@ -57,7 +62,7 @@ Note: Bolded titles are my highly recommended
 - [ ] Zero to One: Notes on Startups, or How to Build the Future (Thiel, Peter & Masters, Blake)
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (Martin, Robert)
 
-### A list of books or audiobooks that I dropped off in the middle.
+### A list of books or audiobooks that I dropped off in the middle
 
 - [ ] The 10 Pillars of Wealth (Becker, Alex)
 - [ ] Affluenza (de Graaf, John)
