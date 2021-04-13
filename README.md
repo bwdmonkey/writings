@@ -6,6 +6,7 @@ unfiltered thoughts about anything
 
 - [Books](./books.md)
 
+- April 13, 2021: [eureka!](20210413 eureka.md)
 - Febuary 27, 2021: [one at at time](20210227 one at a time.md)
 - January 21, 2021: [A week in](20210121 a week in.md)
 - January 4, 2021: [The System of Capitalism](20210104 the system of capitalism.md)
