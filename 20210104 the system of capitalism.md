@@ -1,17 +1,17 @@
 # the system of capitalism
 
-### January 4th, 2021
+## January 4th, 2021
 
 You very likely have heard of the terms such as 'social ladder' and 'social class'. While reading a [webtoon](https://comic.naver.com/webtoon/list.nhn?titleId=749632), I noticed an opportunity to classify the between-class differences in a way that describes the system of capitalism. The world of societal success can be broken down into the following:
 
-```
+```txt
 higher ^ average but strong capital
        | average but strong intellect
        | average but strong physique
        | average
        | average but weak capital
        | average but weak intellect
- lower v average but weak physique
+lower  v average but weak physique
 ```
 
 This representation is not absolute at all. This is a mere simplification of the capitalistic world we live in and abide by. Prior to the implication and further understanding of the representation, we must understand the basis of this representation.

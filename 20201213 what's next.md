@@ -1,8 +1,8 @@
 # What's Next?
 
-### December 13th, 2020
+## December 13th, 2020
 
-It is said that (wo)men spend a majority of their brainpower on thinking about the future. I also spend a lot of time thinking about my own future. Recently as I approach the end of a chapter I began four years ago, I have been pondering about the question: What's next?.
+It is said that (wo)men spend a majority of their brainpower on thinking about the future. I also spend a lot of time thinking about my own future. Recently as I approach the end of a chapter I began four years ago (uni), I have been pondering about the question: What's next?
 
 There are a lot of things I could do next. I have opportunities that many cannot even fathom to dream of. I could go into positions that will pay lucrative amounts, travel the world albeit global COVID-19 pandemic, start my own business in the hopes of becoming the next mega-rich, or simply relax and appreciate life as is. There are no correct answers to this, hence it is hard for me to decide on a path I want to go down.
 

@@ -6,6 +6,7 @@ unfiltered thoughts about anything
 
 - [Books](./books.md)
 
+- June 13, 2021: [Current State of Mind](20210613_current_state_of_mind.md)
 - April 13, 2021: [eureka!](20210413 eureka.md)
 - Febuary 27, 2021: [one at at time](20210227 one at a time.md)
 - January 21, 2021: [A week in](20210121 a week in.md)
