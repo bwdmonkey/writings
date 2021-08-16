@@ -4,6 +4,22 @@ Note: Bolded titles are my recommendations
 
 ## A list of books or audiobooks that I have finished
 
+### 2021
+
+- [x] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- [x] How to Win Friends and Influence People (Carnegie, Dale)
+- [x] How to Stop Worrying and Start Living (Carnegie, Dale)
+- [x] Outliers (Gladwell, Malcolm)
+- [x] Zero to One: Notes on Startups, or How to Build the Future (Thiel, Peter & Masters, Blake)
+- [x] Indistractable (Eyal, Nir)
+- [x] Start with Why (Sinek, Simon)
+- [x] Surrounded by Idiots (Erikson, Thomas)
+- [x] **Principles (Dalio, Ray)** *STRONG RECOMMEND
+- [x] **Talking to Strangers** (Gladwell, Malcolm)
+- [x] How to Change Your Mind (Pollan, Michael)
+- [x] Your Price is Wrong (Kim, Yoojin)
+- [ ] The Road Less Stupid (Cunningham, Keith J.)
+
 ### 2020
 
 - [x] Thinking, Fast and Slow (Kahneman, Daniel)
@@ -41,22 +57,6 @@ Note: Bolded titles are my recommendations
 - [x] **How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry (Carnegie, Dale)**
 - [x] Contagious: Why Things Catch On (Berger, Jonah)
 - [x] **How I Built This (Raz, Guy)**
-
-### 2021
-
-- [x] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
-- [x] How to Win Friends and Influence People (Carnegie, Dale)
-- [x] How to Stop Worrying and Start Living (Carnegie, Dale)
-- [x] Outliers (Gladwell, Malcolm)
-- [x] Zero to One: Notes on Startups, or How to Build the Future (Thiel, Peter & Masters, Blake)
-- [x] Indistractable (Eyal, Nir)
-- [x] Start with Why (Sinek, Simon)
-- [x] Surrounded by Idiots (Erikson, Thomas)
-- [x] **Principles (Dalio, Ray)** *STRONG RECOMMEND
-- [x] **Talking to Strangers** (Gladwell, Malcolm)
-- [x] How to Change Your Mind (Pollan, Michael)
-- [x] Your Price is Wrong (Kim, Yoojin)
-- [ ] The Road Less Stupid (Cunningham, Keith J.)
 
 ## A list of off-topic books or audiobooks that I have finished
 
