@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-
+logo: /assets/img/picture.jpeg
 permalink: pretty
-
+show_downloads: true
+google_analytics: UA-123163034-1
