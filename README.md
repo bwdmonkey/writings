@@ -6,6 +6,7 @@ unfiltered thoughts about anything
 
 - [Books](books.md)
 
+- September 27, 2021 [Reflection](20210927_reflection.md)
 - June 13, 2021: [Current State of Mind](20210613_current_state_of_mind.md)
 - April 13, 2021: [eureka!](20210413_eureka.md)
 - Febuary 27, 2021: [one at at time](20210227_one_at_a_time.md)
