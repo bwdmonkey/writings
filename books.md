@@ -15,10 +15,21 @@ Note: Bolded titles are my recommendations
 - [x] Start with Why (Sinek, Simon)
 - [x] Surrounded by Idiots (Erikson, Thomas)
 - [x] **Principles (Dalio, Ray)** *STRONG RECOMMEND
-- [x] **Talking to Strangers** (Gladwell, Malcolm)
+- [x] **Talking to Strangers (Gladwell, Malcolm)**
 - [x] How to Change Your Mind (Pollan, Michael)
 - [x] Your Price is Wrong (Kim, Yoojin)
-- [ ] The Road Less Stupid (Cunningham, Keith J.)
+- [x] Talking to Strangers (Gladwell, Malcolm)
+- [x] How to Change Your Mind (Pollan, Michael)
+- [x] 12 Months to $1 Million (Moran, Ryan D.)
+- [x] The Productivity Project (Bailey, Chris)
+- [x] The Magic of Thinking Big (Schwartz, David)
+- [x] **Quiet (Cain, Susan)**
+- [x] Loonshots (Bahcall, Safi)
+- [x] No Rules Rules (Hastings, Reed)
+- [x] **The Psychology of Money (Housel, Morgan)**
+- [x] The Compound Effect (Hardy, Darren)
+- [x] **Grit (Duckworth, Angela)**
+- [x] **The Properties of Money (Kim, Seung Ho)**
 
 ### 2020
 
@@ -53,7 +64,7 @@ Note: Bolded titles are my recommendations
 - [x] **The Psychology of Money** (Housel, Morgan)
 - [x] Mindset (Dweck, Carol S.)
 - [x] The 7 Habits of Highly Effective People (Covey, Stephen)
-- [ ] Think Again: The Power of Knowing What You Don't Know (Grant, Adam)
+- [x] Think Again: The Power of Knowing What You Don't Know (Grant, Adam)
 - [x] **How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry (Carnegie, Dale)**
 - [x] Contagious: Why Things Catch On (Berger, Jonah)
 - [x] **How I Built This (Raz, Guy)**
@@ -67,8 +78,15 @@ Note: Bolded titles are my recommendations
 ## A list of books or audiobooks that I am planning on one day
 
 - [ ] The 48 Laws of Power (Greene, Robert)
-- [ ] The Productivity Project (Bailey, Chris)
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (Martin, Robert)
+- [ ] The Road Less Stupid (Cunningham, Keith J.)
+- [ ] Mastering the Market Cycle (Marks, Howard)
+- [ ] How to Own Your Own Mind (Hill, Napoleon)
+- [ ] The Most Important Thing (Marks, Howard)
+- [ ] Richer, Wiser, Happier (Green, William)
+- [ ] Homo Deus (Harari, Yuval N.)
+- [ ] Gun, Germs, and Steel (Diamond, Jared)
+- [ ] Warren Buffet (Lard, Keith)
 
 ## A list of books or audiobooks that I dropped off in the middle
 
@@ -81,3 +99,4 @@ Note: Bolded titles are my recommendations
 - [ ] Building a StoryBrand (Miller, Donald)
 - [ ] Talk Like TED (Gallo, Garmine)
 - [ ] Algorithms to Live By (Christian, Brian)
+- [ ] The Sociopath Next Door (Stout, Martha)
