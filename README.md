@@ -6,6 +6,7 @@ unfiltered thoughts about anything
 
 - [Books](books.md)
 
+- June 1, 2021: [Reminder to Self](20220601_reminder_to_self.md)
 - November 17, 2021 [Goals](202111117_goals.md)
 - November 16, 2021: [Who are you competing against?](20211116_who_are_you_competing_against.md)
 - September 27, 2021 [Reflection](20210927_reflection.md)
