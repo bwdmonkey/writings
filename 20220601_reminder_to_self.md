@@ -2,7 +2,7 @@
 
 ## June 1st, 2022
 
-It's been awhile since you had the time and the mental capacity to think critically. You had adjusted to work and now are responsible for onboarding other people. Things seemed to be great until you forgot something important. You forgot to self-reflect and was always busy with the next thing, even if the next thing was minute. It didn't matter. You were on the move.
+It's been a while since you had the time and the mental capacity to think critically. You had adjusted to work and now are responsible for onboarding other people. Things seemed to be great until you forgot something important. You forgot to self-reflect and was always busy with the next thing, even if the next thing was minute. It didn't matter. You were on the move.
 
 You are not sure what prompted today's chain of thought, but here are some things to remember:
 
