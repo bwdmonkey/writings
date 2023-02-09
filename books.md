@@ -4,6 +4,24 @@ Note: Bolded titles are my recommendations
 
 ## A list of books or audiobooks that I have finished
 
+### 2023
+
+- [ ] Crucial Conversations (Third Edition): Tools for Talking When Stakes Are High
+- [ ] Four Thousand Weeks: Time Management for Mortals (Burkeman, Oliver)
+
+### 2022
+
+- [x] That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea (Randolph, Marc)
+- [x] The Madness of Crowds: Gender, Race and Identity (Murray, Douglas)
+- [x] Everybody, Always: Becoming Love in a World Full of Setbacks and Difficult People (Goff, Bob)
+- [x] Boundaries in Dating: How Healthy Choices Grow Healthy Relationships (Cloud, Henry)
+- [x] Nobody Wants to Read Your Sh*t: And Other Tough-Love Truths to Make You a Better Writer (Pressfield, Steven)
+- [x] Naked, Short and Greedy: Wall Street's Failure to Deliver (Trimbath, Susanne)
+- [x] I Hate You - Don't Leave Me: Third Edition: Understanding the Borderline Personality (Kreisman, Jerold J.)
+- [x] Why We Sleep: Unlocking the Power of Sleep and Dreams (Walker, Matthew)
+- [x] Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love (Grenny, Joseph)
+- [x] Wired for Love: How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship (Tatkin, Stan)
+
 ### 2021
 
 - [x] The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
