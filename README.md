@@ -6,6 +6,7 @@ unfiltered thoughts about anything
 
 - [Books](books.md)
 
+- September 23, 2023: [Unmasking Emotions](20230921_unmasking_emotions.md)
 - February 8, 2023: [Irony of Planning](20230209_irony_of_planning.md)
 - June 1, 2022: [Reminder to Self](20220601_reminder_to_self.md)
 - November 17, 2021 [Goals](20211117_goals.md)
