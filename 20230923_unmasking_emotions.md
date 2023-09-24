@@ -1,6 +1,6 @@
 # Unmasking Emotions
 
-## September 23rd, 2023
+## September 22nd, 2023
 
 *This is a part of my series on becoming on adult. Part 3: Who am I looking for?*
 
