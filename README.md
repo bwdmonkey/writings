@@ -24,3 +24,6 @@ unfiltered thoughts about anything
 - May 10, 2020: [untitled](20200510.md)
 - April 12, 2020: [My Understanding of Riches](20200412_my_understanding_of_riches.md)
 - March 26, 2020: [Writing](20200326_writing.md)
+
+<br/>
+<img src="https://profile-counter.glitch.me/bwdmonkey/count.svg" alt="bwdmonkey view count">
