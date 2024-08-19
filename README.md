@@ -6,8 +6,6 @@ unfiltered thoughts about anything
 
 - [Books](books.md)
 
-- July 1, 2024: [Growing Pains](20240701_growing_pains.md)
-- September 22, 2023: [Unmasking Emotions](20230923_unmasking_emotions.md)
 - February 8, 2023: [Irony of Planning](20230209_irony_of_planning.md)
 - June 1, 2022: [Reminder to Self](20220601_reminder_to_self.md)
 - November 17, 2021 [Goals](20211117_goals.md)
