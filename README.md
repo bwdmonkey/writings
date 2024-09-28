@@ -6,6 +6,7 @@ unfiltered thoughts about anything
 
 - [Books](books.md)
 
+- September 27, 2024: [Tools for Self-Growth](20240927_tools_for_self-growth.md)
 - February 8, 2023: [Irony of Planning](20230209_irony_of_planning.md)
 - June 1, 2022: [Reminder to Self](20220601_reminder_to_self.md)
 - November 17, 2021 [Goals](20211117_goals.md)
