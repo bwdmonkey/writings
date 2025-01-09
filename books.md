@@ -4,9 +4,23 @@ Note: Bolded titles are my recommendations
 
 ## A list of books or audiobooks that I have finished
 
+### 2024
+- [x] **The Startup Playbook (Kidder, David)**
+- [x] The Entrepreneur Equation (Roth, Carol)
+- [x] Startup CEO (Blumberg, Matt)
+- [x] **Stolen Focus (Hari, Johann)**
+- [x] The Founder's Dillemma (Wasserman, Noam)
+- [x] How to Know a Person (Brooks, David)
+- [x] The Lessons of Sayno (Sayno)
+- [x] Product-Led Growth: How to Build a Produc That Sells Itself (Bush, Wes)
+- [x] The Untethered Soul (Singer, Michael)
+- [x] How to Read a Book (Van Doren, Charles)
+- [x] The Revolution Will Not be Funded (INCITE!)
+- [x] The 22 Immutable Laws of Marketing (Ries, Al) 
+
 ### 2023
 
-- [ ] Crucial Conversations (Third Edition): Tools for Talking When Stakes Are High
+- [ ] Crucial Conversations (Third Edition): Tools for Talking When Stakes Are High (Patterson, Kerry)
 - [ ] Four Thousand Weeks: Time Management for Mortals (Burkeman, Oliver)
 
 ### 2022
